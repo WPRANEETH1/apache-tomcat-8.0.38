@@ -1,0 +1,10 @@
+04-Dec-2016 00:25:47.086 INFO [http-nio-8080-exec-68] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+04-Dec-2016 00:26:31.093 INFO [http-nio-8080-exec-59] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+04-Dec-2016 00:26:31.185 INFO [http-nio-8080-exec-59] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+04-Dec-2016 10:35:34.203 INFO [http-nio-8080-exec-71] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+04-Dec-2016 10:36:09.192 INFO [http-nio-8080-exec-81] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+04-Dec-2016 10:36:09.217 INFO [http-nio-8080-exec-81] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+04-Dec-2016 10:52:29.411 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+04-Dec-2016 10:52:29.853 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+04-Dec-2016 10:52:31.560 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+04-Dec-2016 10:52:31.561 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
